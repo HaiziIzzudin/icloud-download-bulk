@@ -14,7 +14,15 @@ And also Python 3.12.X
 
 ## How to run
 
+```bash
+git clone https://github.com/HaiziIzzudin/icloud-download-bulk.git
 ```
+
+```bash
+cd icloud-download-bulk
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
