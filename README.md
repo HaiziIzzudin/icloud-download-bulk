@@ -15,7 +15,7 @@ And also Python 3.12.X
 ## How to run
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Please open the `main.py` file, then edit the line:
